@@ -1,60 +1,101 @@
 .exemple1 {
-    font-family: "Arial", "Helvetica", sans-serif;
-    font-weight: bold;
-    font-style: italic;
-    font-size: 10px;
-  }
-  
-  .exemple2 {
-    font-family: "Georgia", "Times New Roman", sans-serif;
-    font-weight: normal;
-    text-decoration: underline;
-    text-transform: uppercase;
-  }
+  font-family: "Arial", "Helvetica", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 10px;
+}
 
-  .exemple3 {
-    font-family: "Tahoma", "Comic Sans MS", sans-serif;
-    font-weight: lighter;
-    text-decoration: line-through;
-    text-transform: uppercase;
-  }  
+.exemple2 {
+  font-family: "Georgia", "Times New Roman", sans-serif;
+  font-weight: normal;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
 
-  .exemple4 {
-    font-family: "Palatino", "Book Antiqua", serif;
-    font-weight: normal;
-    text-decoration: none;
-    word-spacing: -2px;
-  }
+.exemple3 {
+  font-family: "Tahoma", "Comic Sans MS", sans-serif;
+  font-weight: lighter;
+  text-decoration: line-through;
+  text-transform: uppercase;
+}
 
-  .exemple5 {
-    font-family: "Courier New", monospace;
-    font-weight: bold;
-    text-decoration: underline;
-    font-size: 24px;
-  }
+.exemple4 {
+  font-family: "Palatino", "Book Antiqua", serif;
+  font-weight: normal;
+  text-decoration: none;
+  word-spacing: -2px;
+}
 
-  .exemple6 {
-    font-family: "Impact", sans-serif;
-    font-weight: lighter;
-    text-decoration: none;
-    word-spacing: 8px;
-  }
+.exemple5 {
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 24px;
+}
 
-  .exemple7 {
-    font-family: 'Lucida Handwriting', cursive;
-    font-size: 20px;
-    text-transform: uppercase;
-  }
+.exemple6 {
+  font-family: "Impact", sans-serif;
+  font-weight: lighter;
+  text-decoration: none;
+  word-spacing: 8px;
+}
 
-  .exemple8 {
-    font-family: "Arial", "Helvetica", sans-serif;
-    font-weight: bold;
-    font-style: italic;
-    font-size: 10px;
-    transition: all 0.3s; /* Agregar una transición suave */
-  }
-  
-  
-  
-  
-  
+.exemple7 {
+  font-family: "Lucida Handwriting", cursive;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.exemple8 {
+  font-family: "Verdana", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.exemple9 {
+  font-family: "Cursive", cursive;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.exemple10 {
+  font-family: "Monaco", monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.exemple11 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.exemple12 {
+  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.exemple13 {
+  font-family: "Courier", monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 22px;
+}
+
+.exemple14 {
+  font-family: "Arial Black", Impact, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.exemple15 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: normal;
+  text-decoration: line-through;
+  font-size: 14px;
+}
